@@ -1,0 +1,4 @@
+name: AlternativeFuel
+version: '${project.version}'
+main: com.bonksmp.alternativefuel.AlternativeFuel
+api-version: 1.19
